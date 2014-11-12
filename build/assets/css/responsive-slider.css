@@ -1,0 +1,45 @@
+html, body {
+	height: 100%;	
+}
+
+
+#responsive-slider {
+  display: block;
+  margin: 0px auto 10px auto;
+}
+
+
+#responsive-slider .layer a {
+	color: #00F;
+}
+
+
+#responsive-slider .layer.black a {
+	color: #FFF;
+}
+
+
+@media (max-width:700px) {
+  .advanced-slider .slider-main {
+  	width: 96%;
+    margin: 0px auto 0px auto;
+  }
+  #responsive-slider {
+    margin: 0px auto 40px auto;
+  }
+	#responsive-slider .slide-arrows {
+		display: none;
+	}
+	
+	#responsive-slider .layer {
+		display: none;
+	}
+	
+	#responsive-slider .thumbnail-scroller {
+		display: none;
+	}
+	
+	#responsive-slider .slider-main {
+		height: 100% !important;
+	}
+}

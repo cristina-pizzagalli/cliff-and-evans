@@ -1,0 +1,105 @@
+/* this stylesheet contains example styling for the gallery app. Feel free to edit or include this css in your existing stylesheet */
+
+
+.primary-content .glist,
+.sidebar .glist,
+.glist {
+	list-style: none;
+	margin: 0;
+	padding: 0;
+}
+
+/* for containers, act as a clearing device */
+.cont {
+	overflow: auto;
+}
+
+.allalbums > li {
+	clear: left;
+}
+
+.imagelisting {
+  display: block;
+  margin: 0px 20px;
+}
+
+.imagelisting li {
+	float: left;
+	width: 140px;
+	margin: 0 30px 30px 0;
+}
+
+.imagelisting li img {
+  border: 8px solid #fff;
+  box-shadow: 2px 2px 4px #ddd;
+}
+.slideshow-nav li {
+	float: left;
+	padding: 0 0 0 4.5px;
+}
+
+.slideshow-nav li:first-child {
+	padding-left: 0;
+}
+
+.slideshow-nav li img {
+	width: 76px;
+	height: 76px;
+	opacity: 0.5;
+}
+
+.slideshow-nav li.activeSlide img,
+.slideshow-nav li a:hover img {
+	opacity: 1;
+}
+.albumdisplay {
+border-top: double #ccc;
+padding: 20px 0px 0px 0px;
+margin: 20px 0px 0px 0px;}
+.albumdisplay li {
+	float: left;
+	width: 260px;
+        height: 100px;
+overflow: hidden;
+padding: 10px;
+	margin: 0 20px 20px 0;
+}
+.albumdisplay li a {
+  text-decoration: none;
+  color: #2a2a2a;
+}
+.albumdisplay li:hover a{
+color: #015289;
+}
+.albumdisplay li:hover img {
+	border: 4px solid #015289;
+}
+
+.albumdisplay li img {
+	display: block;
+	border: 4px solid #ffffff;
+box-shadow: 2px 2px 4px #ddd;
+  float: left;
+margin: -10px 10px 0px 0px;
+}
+
+.pager {
+    margin: 1.5em 0;
+    overflow: hidden;
+    padding-top: .8em;
+}
+
+.pager li {
+    float: left;
+    width: 10em;
+}
+
+.pager li.paging-label {
+	float: none;
+	width: 100%;
+	padding: 0 0 1em 0;
+}
+
+.pager a.paging-next {
+	text-align:right;
+}

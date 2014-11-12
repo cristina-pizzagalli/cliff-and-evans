@@ -1,0 +1,80 @@
+<perch:form id="register" method="post" app="perch_forms">
+  <div style="margin: 10px 0px; font-size: 10px; font-style: italic; color: #666666;">
+    * Required Field
+  </div>
+	<div>
+		<perch:label for="company-name">Company Name *:</perch:label>
+		<perch:input type="text" id="company-name" required="true" label="Company Name" />
+		<perch:error for="company-name" type="required">Please enter your company name</perch:error>
+	</div>
+
+	<div>
+		<perch:label for="contact-name">Contact Name *:</perch:label>
+		<perch:input type="text" id="contact-name" required="true" label="Contact Name" />
+		<perch:error for="contact-name" type="required">Please enter your name</perch:error>
+	</div>
+
+	<div>
+		<perch:label for="phone">Contact Tel *:</perch:label>
+		<perch:input type="phone" id="phone" required="true" label="Phone" placeholder="xxx-xxx-xxxx" />
+		<perch:error for="phone" type="required">Please enter your phone number</perch:error>
+		<perch:error for="phone" type="format">Please enter your phone number</perch:error>
+	</div>
+
+	<div>
+		<perch:label for="email">Contact Email *:</perch:label>
+		<perch:input type="email" id="email" required="true" label="Email" placeholder="you@company.com" />
+		<perch:error for="email" type="required">Please enter your email address</perch:error>
+		<perch:error for="email" type="format">Please check your email address</perch:error>
+	</div>
+
+	<div>
+		<perch:label for="company-address">Company Mailing Address:</perch:label>
+		<perch:input type="text" id="company-address" label="Company Address" />
+		<perch:error for="company-address">Please enter your company mailing address</perch:error>
+	</div>
+
+	<div>
+		<perch:label for="company-address-2">Company Mailing Address 2:</perch:label>
+		<perch:input type="text" id="company-address-2" label="Company Address 2" />
+		<perch:error for="company-address-2">Please enter your company mailing address</perch:error>
+	</div>
+
+
+	<div>
+		<perch:label for="company-city">Company City:</perch:label>
+		<perch:input type="text" id="company-city" label="Company City" />
+		<perch:error for="company-city">Please enter your company city</perch:error>
+	</div>
+
+	<div>
+		<perch:label for="company-postal-code">Company Postal Code:</perch:label>
+		<perch:input type="text" id="company-postal-code" label="Company Postal Code" />
+		<perch:error for="company-postal-code">Please enter your company postal code</perch:error>
+	</div>
+	
+	<div>
+		<perch:label for="description">Brief description of your company *:</perch:label>
+		<perch:input type="textarea" id="description" required="true" label="Description" />
+		<perch:error for="description" type="required">Enter your message here...</perch:error>
+	</div>
+	
+	<div>
+		<perch:label for="source">Where did you hear of Cliff and Evans Ltd. *:</perch:label>
+		<perch:input type="textarea" id="source" required="true" label="Source" />
+		<perch:error for="source" type="required">Enter your message here...</perch:error>
+	</div>
+	
+	<div>
+	  <perch:label for="source">Business category...</perch:label>
+    <perch:input type="radio" id="Category" options="Residential or Commerical Subcontractor,Material Supplier,Service Professional" wrap="div.radiowrapper" />
+  </div>
+  
+	<div>
+		<perch:input type="submit" id="submit" value="Submit" />
+	</div>
+
+	<perch:success>
+		<perch:content id="success" type="textarea" label="Thank you message" textile="true" editor="markitup" />
+	</perch:success>
+</perch:form>

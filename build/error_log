@@ -1,0 +1,102 @@
+[21-Mar-2014 15:21:43 UTC] PHP Notice:  Undefined index: id in /home2/cliffand/public_html/cristina/perch/core/lib/PerchTemplatedForm.class.php on line 371
+[21-Mar-2014 15:22:26 UTC] PHP Notice:  Undefined index: id in /home2/cliffand/public_html/cristina/perch/core/lib/PerchTemplatedForm.class.php on line 371
+[21-Mar-2014 15:22:30 UTC] PHP Notice:  Undefined index: id in /home2/cliffand/public_html/cristina/perch/core/lib/PerchTemplatedForm.class.php on line 371
+[21-Mar-2014 15:23:20 UTC] PHP Notice:  Undefined index: id in /home2/cliffand/public_html/cristina/perch/core/lib/PerchTemplatedForm.class.php on line 371
+[21-Mar-2014 15:24:51 UTC] PHP Notice:  Undefined index: id in /home2/cliffand/public_html/cristina/perch/core/lib/PerchTemplatedForm.class.php on line 371
+[21-Mar-2014 15:25:05 UTC] PHP Notice:  Undefined index: id in /home2/cliffand/public_html/cristina/perch/core/lib/PerchTemplatedForm.class.php on line 371
+[21-Mar-2014 15:25:07 UTC] PHP Notice:  Undefined index: id in /home2/cliffand/public_html/cristina/perch/core/lib/PerchTemplatedForm.class.php on line 371
+[21-Mar-2014 15:26:16 UTC] PHP Notice:  Undefined index: id in /home2/cliffand/public_html/cristina/perch/core/lib/PerchTemplatedForm.class.php on line 371
+[21-Mar-2014 15:31:34 UTC] PHP Notice:  Undefined index: id in /home2/cliffand/public_html/cristina/perch/core/lib/PerchTemplatedForm.class.php on line 371
+[21-Mar-2014 19:46:06 UTC] PHP Notice:  Undefined index: id in /home2/cliffand/public_html/cristina/perch/core/lib/PerchTemplatedForm.class.php on line 371
+[21-Mar-2014 19:46:48 UTC] PHP Notice:  Undefined index: id in /home2/cliffand/public_html/cristina/perch/core/lib/PerchTemplatedForm.class.php on line 371
+[21-Mar-2014 19:46:50 UTC] PHP Notice:  Undefined index: id in /home2/cliffand/public_html/cristina/perch/core/lib/PerchTemplatedForm.class.php on line 371
+[21-Mar-2014 20:00:50 America/Denver] PHP Parse error:  syntax error, unexpected '=' in /home2/cliffand/public_html/cristina/project-index.php on line 105
+[21-Mar-2014 20:00:55 America/Denver] PHP Parse error:  syntax error, unexpected '=' in /home2/cliffand/public_html/cristina/project-index.php on line 105
+[21-Mar-2014 20:00:55 America/Denver] PHP Parse error:  syntax error, unexpected '=' in /home2/cliffand/public_html/cristina/project-index.php on line 105
+[21-Mar-2014 20:00:57 America/Denver] PHP Parse error:  syntax error, unexpected '=' in /home2/cliffand/public_html/cristina/project-index.php on line 105
+[21-Mar-2014 20:01:26 America/Denver] PHP Parse error:  syntax error, unexpected '=' in /home2/cliffand/public_html/cristina/project-index.php on line 105
+[21-Mar-2014 20:01:27 America/Denver] PHP Parse error:  syntax error, unexpected '=' in /home2/cliffand/public_html/cristina/project-index.php on line 105
+[21-Mar-2014 20:01:28 America/Denver] PHP Parse error:  syntax error, unexpected '=' in /home2/cliffand/public_html/cristina/project-index.php on line 105
+[21-Mar-2014 20:01:28 America/Denver] PHP Parse error:  syntax error, unexpected '=' in /home2/cliffand/public_html/cristina/project-index.php on line 105
+[21-Mar-2014 20:06:26 America/Denver] PHP Parse error:  syntax error, unexpected '/', expecting ')' in /home2/cliffand/public_html/cristina/project-index.php on line 116
+[21-Mar-2014 20:06:30 America/Denver] PHP Parse error:  syntax error, unexpected '/', expecting ')' in /home2/cliffand/public_html/cristina/project-index.php on line 116
+[22-Mar-2014 02:07:18 UTC] PHP Warning:  preg_match() expects parameter 2 to be string, array given in /home2/cliffand/public_html/cristina/project-index.php on line 116
+[22-Mar-2014 02:07:52 UTC] PHP Warning:  preg_match() expects parameter 2 to be string, array given in /home2/cliffand/public_html/cristina/project-index.php on line 116
+[22-Mar-2014 02:07:59 UTC] PHP Warning:  preg_match() expects parameter 2 to be string, array given in /home2/cliffand/public_html/cristina/project-index.php on line 116
+[21-Mar-2014 20:16:05 America/Denver] PHP Parse error:  syntax error, unexpected end of file in /home2/cliffand/public_html/cristina/project-index.php on line 146
+[21-Mar-2014 20:16:07 America/Denver] PHP Parse error:  syntax error, unexpected end of file in /home2/cliffand/public_html/cristina/project-index.php on line 146
+[22-Mar-2014 02:16:41 UTC] PHP Notice:  Undefined variable: sectio in /home2/cliffand/public_html/cristina/project-index.php on line 111
+[22-Mar-2014 02:16:41 UTC] PHP Fatal error:  Call to undefined function imageForSection() in /home2/cliffand/public_html/cristina/project-index.php on line 123
+[22-Mar-2014 02:16:58 UTC] PHP Notice:  Undefined variable: sectio in /home2/cliffand/public_html/cristina/project-index.php on line 111
+[22-Mar-2014 02:16:58 UTC] PHP Fatal error:  Call to undefined function imageForSection() in /home2/cliffand/public_html/cristina/project-index.php on line 123
+[22-Mar-2014 02:17:59 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home2/cliffand/public_html/cristina/project-index.php on line 120
+[22-Mar-2014 02:18:01 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home2/cliffand/public_html/cristina/project-index.php on line 120
+[22-Mar-2014 02:20:51 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home2/cliffand/public_html/cristina/project-index.php on line 120
+[22-Mar-2014 02:22:26 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home2/cliffand/public_html/cristina/project-index.php on line 120
+[22-Mar-2014 15:12:29 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home2/cliffand/public_html/cristina/project-index.php on line 120
+[22-Mar-2014 15:12:36 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home2/cliffand/public_html/cristina/project-index.php on line 120
+[22-Mar-2014 15:12:37 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home2/cliffand/public_html/cristina/project-index.php on line 120
+[22-Mar-2014 15:12:37 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home2/cliffand/public_html/cristina/project-index.php on line 120
+[22-Mar-2014 15:14:02 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home2/cliffand/public_html/cristina/project-index.php on line 120
+[22-Mar-2014 15:15:20 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home2/cliffand/public_html/cristina/project-index.php on line 120
+[22-Mar-2014 15:25:58 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home2/cliffand/public_html/cristina/project-index.php on line 120
+[22-Mar-2014 15:26:00 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home2/cliffand/public_html/cristina/project-index.php on line 120
+[22-Mar-2014 15:26:22 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home2/cliffand/public_html/cristina/project-index.php on line 120
+[22-Mar-2014 15:26:35 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home2/cliffand/public_html/cristina/project-index.php on line 120
+[22-Mar-2014 15:26:39 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home2/cliffand/public_html/cristina/project-index.php on line 120
+[22-Mar-2014 15:28:17 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home2/cliffand/public_html/cristina/project-index.php on line 120
+[22-Mar-2014 15:28:23 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home2/cliffand/public_html/cristina/project-index.php on line 120
+[22-Mar-2014 15:29:04 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home2/cliffand/public_html/cristina/project-index.php on line 120
+[22-Mar-2014 16:47:23 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home2/cliffand/public_html/cristina/project-index.php on line 120
+[22-Mar-2014 16:47:23 UTC] PHP Notice:  Undefined offset: 0 in /home2/cliffand/public_html/cristina/project-index.php on line 15
+[22-Mar-2014 16:47:23 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home2/cliffand/public_html/cristina/project-index.php on line 120
+[22-Mar-2014 16:50:12 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home2/cliffand/public_html/cristina/project-index.php on line 120
+[22-Mar-2014 16:53:15 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home2/cliffand/public_html/cristina/project-index.php on line 120
+[22-Mar-2014 16:57:08 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home2/cliffand/public_html/cristina/project-index.php on line 120
+[22-Mar-2014 16:57:39 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home2/cliffand/public_html/cristina/project-index.php on line 120
+[22-Mar-2014 17:01:43 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home2/cliffand/public_html/cristina/project-index.php on line 120
+[22-Mar-2014 17:05:04 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home2/cliffand/public_html/cristina/project-index.php on line 120
+[22-Mar-2014 17:13:03 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home2/cliffand/public_html/cristina/project-index.php on line 120
+[22-Mar-2014 17:15:00 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home2/cliffand/public_html/cristina/project-index.php on line 120
+[22-Mar-2014 17:20:41 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home2/cliffand/public_html/cristina/project-index.php on line 120
+[22-Mar-2014 17:20:41 UTC] PHP Notice:  Undefined offset: 0 in /home2/cliffand/public_html/cristina/project-index.php on line 15
+[22-Mar-2014 17:20:41 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home2/cliffand/public_html/cristina/project-index.php on line 120
+[22-Mar-2014 17:20:41 UTC] PHP Notice:  Undefined offset: 0 in /home2/cliffand/public_html/cristina/project-index.php on line 15
+[22-Mar-2014 17:31:03 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home2/cliffand/public_html/cristina/project-index.php on line 120
+[22-Mar-2014 17:37:11 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home2/cliffand/public_html/cristina/project-index.php on line 120
+[23-Mar-2014 15:13:47 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home2/cliffand/public_html/cristina/project-index.php on line 120
+[23-Mar-2014 18:01:22 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home2/cliffand/public_html/cristina/project-index.php on line 120
+[23-Mar-2014 12:33:24 America/Denver] PHP Warning:  include(): Failed opening '../perch/runtime.php' for inclusion (include_path='.:/usr/php/54/usr/lib64:/usr/php/54/usr/share/pear') in /home2/cliffand/public_html/cristina/index.php on line 1
+[23-Mar-2014 12:33:24 America/Denver] PHP Fatal error:  Call to undefined function perch_get_css() in /home2/cliffand/public_html/cristina/index.php on line 7
+[23-Mar-2014 12:33:31 America/Denver] PHP Warning:  include(): Failed opening '../perch/runtime.php' for inclusion (include_path='.:/usr/php/54/usr/lib64:/usr/php/54/usr/share/pear') in /home2/cliffand/public_html/cristina/index.php on line 1
+[23-Mar-2014 12:33:31 America/Denver] PHP Fatal error:  Call to undefined function perch_get_css() in /home2/cliffand/public_html/cristina/index.php on line 7
+[23-Mar-2014 12:33:32 America/Denver] PHP Warning:  include(): Failed opening '../perch/runtime.php' for inclusion (include_path='.:/usr/php/54/usr/lib64:/usr/php/54/usr/share/pear') in /home2/cliffand/public_html/cristina/index.php on line 1
+[23-Mar-2014 12:33:32 America/Denver] PHP Fatal error:  Call to undefined function perch_get_css() in /home2/cliffand/public_html/cristina/index.php on line 7
+[23-Mar-2014 12:33:33 America/Denver] PHP Warning:  include(): Failed opening '../perch/runtime.php' for inclusion (include_path='.:/usr/php/54/usr/lib64:/usr/php/54/usr/share/pear') in /home2/cliffand/public_html/cristina/index.php on line 1
+[23-Mar-2014 12:33:33 America/Denver] PHP Fatal error:  Call to undefined function perch_get_css() in /home2/cliffand/public_html/cristina/index.php on line 7
+[23-Mar-2014 12:33:35 America/Denver] PHP Warning:  include(): Failed opening '../perch/runtime.php' for inclusion (include_path='.:/usr/php/54/usr/lib64:/usr/php/54/usr/share/pear') in /home2/cliffand/public_html/cristina/index.php on line 1
+[23-Mar-2014 12:33:35 America/Denver] PHP Fatal error:  Call to undefined function perch_get_css() in /home2/cliffand/public_html/cristina/index.php on line 7
+[23-Mar-2014 12:33:35 America/Denver] PHP Warning:  include(): Failed opening '../perch/runtime.php' for inclusion (include_path='.:/usr/php/54/usr/lib64:/usr/php/54/usr/share/pear') in /home2/cliffand/public_html/cristina/index.php on line 1
+[23-Mar-2014 12:33:35 America/Denver] PHP Fatal error:  Call to undefined function perch_get_css() in /home2/cliffand/public_html/cristina/index.php on line 7
+[23-Mar-2014 12:33:36 America/Denver] PHP Warning:  include(): Failed opening '../perch/runtime.php' for inclusion (include_path='.:/usr/php/54/usr/lib64:/usr/php/54/usr/share/pear') in /home2/cliffand/public_html/cristina/index.php on line 1
+[23-Mar-2014 12:33:36 America/Denver] PHP Fatal error:  Call to undefined function perch_get_css() in /home2/cliffand/public_html/cristina/index.php on line 7
+[23-Mar-2014 18:49:39 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home2/cliffand/public_html/cristina/project-index.php on line 120
+[23-Mar-2014 18:49:49 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home2/cliffand/public_html/cristina/project-index.php on line 120
+[23-Mar-2014 19:15:10 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home2/cliffand/public_html/cristina/project-index.php on line 120
+[23-Mar-2014 19:49:09 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home2/cliffand/public_html/cristina/project-index.php on line 120
+[23-Mar-2014 19:50:11 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home2/cliffand/public_html/cristina/project-index.php on line 120
+[26-Mar-2014 01:01:38 UTC] PHP Notice:  Undefined index: id in /home2/cliffand/public_html/cristina/perch/core/lib/PerchTemplatedForm.class.php on line 371
+[28-Mar-2014 19:22:09 UTC] PHP Notice:  Undefined index: id in /home2/cliffand/public_html/cristina/perch/core/lib/PerchTemplatedForm.class.php on line 371
+[03-Apr-2014 20:22:47 UTC] PHP Notice:  Undefined index: id in /home2/cliffand/public_html/cristina/perch/core/lib/PerchTemplatedForm.class.php on line 371
+[12-May-2014 14:42:50 UTC] PHP Notice:  Undefined index: id in /home2/cliffand/public_html/cristina/perch/core/lib/PerchTemplatedForm.class.php on line 371
+[12-May-2014 14:49:14 UTC] PHP Notice:  Undefined index: id in /home2/cliffand/public_html/cristina/perch/core/lib/PerchTemplatedForm.class.php on line 371
+[26-May-2014 11:44:21 UTC] PHP Notice:  Undefined index: id in /home2/cliffand/public_html/cristina/perch/core/lib/PerchTemplatedForm.class.php on line 371
+[26-May-2014 20:34:01 UTC] PHP Notice:  Undefined index: id in /home2/cliffand/public_html/cristina/perch/core/lib/PerchTemplatedForm.class.php on line 371
+[28-May-2014 01:22:44 UTC] PHP Notice:  Undefined index: id in /home2/cliffand/public_html/cristina/perch/core/lib/PerchTemplatedForm.class.php on line 371
+[28-May-2014 01:31:46 UTC] PHP Notice:  Undefined index: id in /home2/cliffand/public_html/cristina/perch/core/lib/PerchTemplatedForm.class.php on line 371
+[29-May-2014 00:35:30 UTC] PHP Notice:  Undefined index: id in /home2/cliffand/public_html/cristina/perch/core/lib/PerchTemplatedForm.class.php on line 371
+[01-Jun-2014 17:45:29 UTC] PHP Notice:  Undefined index: id in /home2/cliffand/public_html/perch/core/lib/PerchTemplatedForm.class.php on line 371
+[01-Jun-2014 18:18:19 UTC] PHP Notice:  Undefined index: id in /home2/cliffand/public_html/perch/core/lib/PerchTemplatedForm.class.php on line 371
+[02-Jun-2014 00:23:23 UTC] PHP Notice:  Undefined index: id in /home2/cliffand/public_html/perch/core/lib/PerchTemplatedForm.class.php on line 371
+[02-Jun-2014 13:42:55 UTC] PHP Notice:  Undefined index: id in /home2/cliffand/public_html/perch/core/lib/PerchTemplatedForm.class.php on line 371
+[02-Jun-2014 14:18:13 UTC] PHP Notice:  Undefined index: id in /home2/cliffand/public_html/perch/core/lib/PerchTemplatedForm.class.php on line 371

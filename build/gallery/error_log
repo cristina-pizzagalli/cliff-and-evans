@@ -1,0 +1,8 @@
+[23-Mar-2014 12:21:00 America/Denver] PHP Warning:  include(): Failed opening '../../perch/runtime.php' for inclusion (include_path='.:/usr/php/54/usr/lib64:/usr/php/54/usr/share/pear') in /home2/cliffand/public_html/cristina/gallery/index.php on line 1
+[23-Mar-2014 12:21:00 America/Denver] PHP Fatal error:  Call to undefined function perch_get_css() in /home2/cliffand/public_html/cristina/gallery/index.php on line 7
+[23-Mar-2014 12:21:05 America/Denver] PHP Warning:  include(): Failed opening '../../perch/runtime.php' for inclusion (include_path='.:/usr/php/54/usr/lib64:/usr/php/54/usr/share/pear') in /home2/cliffand/public_html/cristina/gallery/index.php on line 1
+[23-Mar-2014 12:21:05 America/Denver] PHP Fatal error:  Call to undefined function perch_get_css() in /home2/cliffand/public_html/cristina/gallery/index.php on line 7
+[23-Mar-2014 12:23:47 America/Denver] PHP Warning:  include(): Failed opening '../../perch/runtime.php' for inclusion (include_path='.:/usr/php/54/usr/lib64:/usr/php/54/usr/share/pear') in /home2/cliffand/public_html/cristina/gallery/album.php on line 1
+[23-Mar-2014 12:23:47 America/Denver] PHP Fatal error:  Call to undefined function perch_gallery_album_field() in /home2/cliffand/public_html/cristina/gallery/album.php on line 6
+[23-Mar-2014 12:23:50 America/Denver] PHP Warning:  include(): Failed opening '../../perch/runtime.php' for inclusion (include_path='.:/usr/php/54/usr/lib64:/usr/php/54/usr/share/pear') in /home2/cliffand/public_html/cristina/gallery/album.php on line 1
+[23-Mar-2014 12:23:50 America/Denver] PHP Fatal error:  Call to undefined function perch_gallery_album_field() in /home2/cliffand/public_html/cristina/gallery/album.php on line 6
